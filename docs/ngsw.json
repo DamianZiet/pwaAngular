@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1594545898334,
+  "timestamp": 1594546854820,
   "index": "https://damianziet.github.io/pwaAngular/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://damianziet.github.io/pwaAngular/favicon.ico",
         "https://damianziet.github.io/pwaAngular/index.html",
-        "https://damianziet.github.io/pwaAngular/main-es2015.664c109cec54c65ad815.js",
-        "https://damianziet.github.io/pwaAngular/main-es5.664c109cec54c65ad815.js",
+        "https://damianziet.github.io/pwaAngular/main-es2015.7fc3a88b8111eac6c21a.js",
+        "https://damianziet.github.io/pwaAngular/main-es5.7fc3a88b8111eac6c21a.js",
         "https://damianziet.github.io/pwaAngular/manifest.webmanifest",
         "https://damianziet.github.io/pwaAngular/polyfills-es2015.f332a089ad1600448873.js",
         "https://damianziet.github.io/pwaAngular/polyfills-es5.177e85a9724683782539.js",
@@ -49,9 +49,9 @@
     "https://damianziet.github.io/pwaAngular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://damianziet.github.io/pwaAngular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://damianziet.github.io/pwaAngular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://damianziet.github.io/pwaAngular/index.html": "af767f97d5cdea11449b8038fa142fe025babc42",
-    "https://damianziet.github.io/pwaAngular/main-es2015.664c109cec54c65ad815.js": "9a52d03846998cec058e995a0d03064e629d77b1",
-    "https://damianziet.github.io/pwaAngular/main-es5.664c109cec54c65ad815.js": "e7ba6734ad628c5054419c44467e1b65cafb4f2a",
+    "https://damianziet.github.io/pwaAngular/index.html": "4d00d9370761215c9bf9fc51eef03b45f50d0df7",
+    "https://damianziet.github.io/pwaAngular/main-es2015.7fc3a88b8111eac6c21a.js": "9f7b58d680a855522580e53b04fe322321e4f2e7",
+    "https://damianziet.github.io/pwaAngular/main-es5.7fc3a88b8111eac6c21a.js": "2ca989b1780df264b638f70f4a96a2e8587fbb43",
     "https://damianziet.github.io/pwaAngular/manifest.webmanifest": "fbbb509823ff9982f1f8b174de01aabe21b32ca5",
     "https://damianziet.github.io/pwaAngular/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://damianziet.github.io/pwaAngular/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
